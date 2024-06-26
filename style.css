@@ -1,0 +1,179 @@
+.img{
+    height: 40px;
+    width: 40px;
+    padding: 5px;
+}
+.main-img{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    height: 200vh;
+    background-size: cover;
+    padding-top:20px ;
+}
+.nav{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-style: italic;
+}
+.h1{
+    font-family: 'roboto';
+    font-style: italic;
+    color: white;
+    font-size: 100px;
+    font-weight: bold;
+}
+.h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color: white;
+    font-weight: bold;
+    font-size: 10px;
+}
+
+
+.but{
+    background-color: rgb(14, 14, 194);
+    color: aliceblue;
+    border-radius: 50px;
+    border-width: 5px;
+    height: 40px;
+    margin: 10px;
+    width: 100px;
+    padding: 5px;
+    border-color: rgb(14, 14, 171);
+    
+}
+.but-1{
+    border-color: rgb(145, 145, 248);
+    color: rgb(2, 87, 162);
+    border-radius: 50px;
+    border-width: 5px;
+    height: 40px;
+    margin: 10px;
+    width: 100px;
+    padding: 5px;
+    
+}
+.sub-bg{
+    background-color:white;
+    
+}
+    
+.head-1{
+    color: rgb(12, 12, 175);
+    font-family: 'roboto';
+    font-style: italic;
+    font-weight: bold;
+   
+   
+    font-size: 25px;
+}
+.par-1{
+    font-size: 15px;
+    
+    font-family: 'roboto';
+    
+    color: rgb(3, 3, 88);
+
+}
+.card-bg{
+    border-radius: 20px;
+    background-color: rgba(169, 214, 244, 0.915);
+    text-align: center;
+    border-width: 1px;
+    border-style: bold;
+    border-color: #769fdf;
+   
+}
+.card-h{
+    color: #323f4b;
+    font-size:20px ;
+    color: rgb(4, 4, 53);
+    margin-top: 5px;
+    
+
+}
+.card-p{
+   
+    font-size:10px ;
+    color: rgb(4, 4, 53);
+    color: #7b8794;
+
+}
+.card{
+    width:60px;
+  height: 60px;
+  margin-left: 130px;
+  
+}
+.offers {
+    color: #323f4b;
+    font-style: italic;
+    font-weight: 600;
+  }
+  .menuback{
+    background-color: azure;
+    height: auto;
+  }
+  .menuhead{
+    text-align: center;
+    padding: 20px;
+    margin: 5px;
+    font-family:'festive' ;
+    font-style: italic;
+    font-weight: bold;
+    color: #194997;
+    font-size: 18px;
+
+  }
+.cardimg{
+    border-radius: 17px;
+    width:100% ;
+}
+.para{
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 13px;
+    
+}
+.cardhead{
+    color: #021534;
+    font-style: italic;
+    margin-top: 25px;
+}
+a:hover,a:active{
+    background-color: #d0b200;
+}
+.menu-item-card {
+    border-radius: 16px;
+  }
+  .freshbgclr{
+    background-color: white;
+  }
+  .freshimg{
+    height: 300px;
+    width: 100%;
+  }
+  .freshhead{
+    font-style: italic;
+    color: #021535;
+    font-weight: 700;
+
+  }
+  .freshpara{
+    font-style: oblique;
+    color: #7b8794;
+
+  }
+  .freshbut{
+    background-color: #9b8404;
+    border-radius: 19px;
+    border-color: 0px;
+    width:200px ;
+    height: auto;
+    color: antiquewhite ;
+  }
+  button.horver and button.active{
+    background-color: #f0da5b;
+  }
